@@ -1,0 +1,86 @@
+{
+  "id": "1514398",
+  "name": "v-star",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "526001",
+      "name": "返回",
+      "font_class": "fanhui",
+      "unicode": "e618",
+      "unicode_decimal": 58904
+    },
+    {
+      "icon_id": "6808313",
+      "name": "Smile",
+      "font_class": "Smile1",
+      "unicode": "ed73",
+      "unicode_decimal": 60787
+    },
+    {
+      "icon_id": "6808314",
+      "name": "Strait",
+      "font_class": "Strait1",
+      "unicode": "ed74",
+      "unicode_decimal": 60788
+    },
+    {
+      "icon_id": "6808320",
+      "name": "Thoung-Out",
+      "font_class": "Thoung-Out",
+      "unicode": "ed78",
+      "unicode_decimal": 60792
+    },
+    {
+      "icon_id": "6808324",
+      "name": "Wierd-1",
+      "font_class": "Wierd-1",
+      "unicode": "ed7a",
+      "unicode_decimal": 60794
+    },
+    {
+      "icon_id": "6808326",
+      "name": "Yelling",
+      "font_class": "Yelling",
+      "unicode": "ed7b",
+      "unicode_decimal": 60795
+    },
+    {
+      "icon_id": "6901412",
+      "name": "白眼",
+      "font_class": "baiyan",
+      "unicode": "e736",
+      "unicode_decimal": 59190
+    },
+    {
+      "icon_id": "6901416",
+      "name": "大笑",
+      "font_class": "daxiao",
+      "unicode": "e738",
+      "unicode_decimal": 59192
+    },
+    {
+      "icon_id": "6901428",
+      "name": "开心",
+      "font_class": "kaixin",
+      "unicode": "e73e",
+      "unicode_decimal": 59198
+    },
+    {
+      "icon_id": "6901429",
+      "name": "冷酷",
+      "font_class": "lengku",
+      "unicode": "e73f",
+      "unicode_decimal": 59199
+    },
+    {
+      "icon_id": "6901430",
+      "name": "大闹",
+      "font_class": "danao",
+      "unicode": "e73d",
+      "unicode_decimal": 59197
+    }
+  ]
+}
